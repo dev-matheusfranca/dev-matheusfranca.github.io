@@ -1,6 +1,6 @@
 # Portfólio — Matheus França Santana
 
-Portfólio profissional publicado no GitHub Pages. A primeira versão apresenta o posicionamento profissional, os princípios de trabalho e uma seleção honesta de projetos públicos.
+Portfólio profissional publicado no GitHub Pages. Apresenta o posicionamento profissional, os princípios de trabalho e uma seleção de aplicações e automações, com o contexto e o estágio de cada projeto.
 
 ## Tecnologias
 
@@ -27,7 +27,13 @@ O repositório de usuário `dev-matheusfranca.github.io` publica o conteúdo da 
 
 ## Conteúdo
 
-As informações desta versão foram limitadas ao perfil e aos repositórios públicos. Estudos de caso profissionais devem ser adicionados somente depois de sanitização e autorização adequadas.
+A seleção apresenta, nesta ordem:
+
+- **Site e gestão de pedidos para farmácia:** projeto solicitado por uma farmácia local, em desenvolvimento, com catálogo, ofertas, carrinho e acompanhamento do atendimento. O código permanece privado; o card direciona à seção de contato, sem sugerir que exista uma demonstração pública ou operação em produção.
+- **Gestão de biblioteca:** projeto público em Laravel para acervo, empréstimos, devoluções e disponibilidade.
+- **Normalização segura de arquivos:** utilitário público em Python para renomeação em lote, com simulação e tratamento de nomes repetidos.
+
+As descrições priorizam o problema atendido e o comportamento implementado. A galeria Django foi retirada da seleção; as referências a Django na trajetória e nas tecnologias foram preservadas. Estudos de caso profissionais devem apresentar somente informações autorizadas, sem dados de clientes ou resultados não verificados.
 
 ## Próximas evoluções
 
