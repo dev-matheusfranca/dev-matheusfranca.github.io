@@ -1,6 +1,6 @@
 # Portfólio — Matheus França Santana
 
-Portfólio profissional publicado no GitHub Pages. Apresenta o posicionamento profissional, os princípios de trabalho e uma seleção de aplicações e experimentos, com o contexto e o estágio de cada projeto.
+Portfólio profissional publicado no GitHub Pages. Apresenta o posicionamento e o fluxo de trabalho, além de uma seleção de aplicações e experimentos com o contexto e o estágio de cada projeto.
 
 ## Tecnologias
 

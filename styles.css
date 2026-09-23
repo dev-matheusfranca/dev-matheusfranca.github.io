@@ -552,52 +552,8 @@ a {
   line-height: 1.4;
 }
 
-.principles .section-heading,
 .projects .section-heading {
   margin-bottom: 74px;
-}
-
-.principles-list {
-  border-top: 1px solid var(--ink);
-}
-
-.principle {
-  display: grid;
-  padding: 34px 0;
-  align-items: start;
-  border-bottom: 1px solid var(--line);
-  grid-template-columns: 70px 1fr;
-  gap: 30px;
-}
-
-.principle:last-child {
-  border-bottom: none;
-}
-
-.principle-mark {
-  display: grid;
-  width: 48px;
-  height: 48px;
-  place-items: center;
-  color: var(--blueprint);
-  border: 1px solid var(--blueprint);
-  font-family: var(--utility);
-  font-size: 13px;
-  font-weight: 700;
-}
-
-.principle h3 {
-  margin: 0 0 7px;
-  font-family: var(--display);
-  font-size: clamp(27px, 3vw, 38px);
-  letter-spacing: -0.035em;
-  line-height: 1.1;
-}
-
-.principle p {
-  max-width: 650px;
-  margin: 0;
-  color: var(--ink-soft);
 }
 
 .section-note {
@@ -1001,19 +957,8 @@ a.contact-card:focus-visible {
     padding: 92px 0;
   }
 
-  .principles .section-heading,
   .projects .section-heading {
     margin-bottom: 52px;
-  }
-
-  .principle {
-    grid-template-columns: 48px 1fr;
-    gap: 18px;
-  }
-
-  .principle-mark {
-    width: 40px;
-    height: 40px;
   }
 
   .project-meta {
